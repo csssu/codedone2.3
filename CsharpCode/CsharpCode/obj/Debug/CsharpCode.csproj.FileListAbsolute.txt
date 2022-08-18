@@ -1,0 +1,6 @@
+C:\Users\Chuck\source\CodeDone-Second\Third Week\CsharpCode\CsharpCode\bin\Debug\CsharpCode.exe.config
+C:\Users\Chuck\source\CodeDone-Second\Third Week\CsharpCode\CsharpCode\bin\Debug\CsharpCode.exe
+C:\Users\Chuck\source\CodeDone-Second\Third Week\CsharpCode\CsharpCode\bin\Debug\CsharpCode.pdb
+C:\Users\Chuck\source\CodeDone-Second\Third Week\CsharpCode\CsharpCode\obj\Debug\CsharpCode.csprojAssemblyReference.cache
+C:\Users\Chuck\source\CodeDone-Second\Third Week\CsharpCode\CsharpCode\obj\Debug\CsharpCode.exe
+C:\Users\Chuck\source\CodeDone-Second\Third Week\CsharpCode\CsharpCode\obj\Debug\CsharpCode.pdb
